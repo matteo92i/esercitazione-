@@ -1,0 +1,50 @@
+body{
+  background-image: url('monopattino.jpg');
+
+}
+.logo{
+  width: 200px;
+}
+.conteiner{
+  width: 500px;
+  margin: auto;
+}
+.color-text{
+  color: green;
+}
+.row{
+  background-color: green;
+}
+.inlinea{
+  display: inline-block;
+margin-bottom: 0px;
+margin-top: 35px;
+}
+.margine{
+  margin-top: 0px;
+}
+hr{
+  height: 20px;
+  width: 300px;
+  background-color: orange;
+  margin-top: -15px;
+}
+.carica{
+  height: 20px;
+  width: 500px;
+  background-color: green;
+  margin-top: -15px;
+}
+.scarico{
+  height: 20px;
+  width: 100px;
+  background-color: red;
+  margin-top: -15px;
+}
+main{
+  width: 500px;
+  margin: auto;
+  color: white;
+  
+
+}
